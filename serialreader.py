@@ -1,18 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-"""
-ZetCode PyQt4 tutorial
-
-In this example, we create a bit
-more complicated window layout using
-the QGridLayout manager.
-
-author: Jan Bodnar
-website: zetcode.com
-last edited: October 2011
-"""
-
 import sys
 import time
 from PyQt4.QtCore import *
